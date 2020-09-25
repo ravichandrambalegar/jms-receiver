@@ -14,7 +14,7 @@ commandline to install apache-artemis:
 
 . unzip the downloaded apache-artemis-2.15.0 . cd apache-artemis-2.15.0 . cd bin . ./artemis create the artremis broker . ./artemis create /tmp/mybroker set user name and password . cd /tmp/mybroker . cd bin . ./artemis-service start
 
-run the project after installation of pache-artemis.
+run the project after installation of apache-artemis.
 
 . This application used to receives the Message :
 
